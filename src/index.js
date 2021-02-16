@@ -10,6 +10,8 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <ComA/>
+    <hr/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
